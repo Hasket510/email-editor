@@ -22,7 +22,7 @@ cd Email-editor
 npm install
 ```
 
-5.start server
+5. start server
 
 ```
 npx json-server db.json
