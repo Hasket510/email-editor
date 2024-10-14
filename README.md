@@ -7,7 +7,7 @@ Service for editing email online
 1. clone
 
 ```
-git clone https://github.com/Hasket510/Email-editor
+git clone https://github.com/Hasket510/email-editor
 ```
 
 2. go in to project
@@ -36,4 +36,4 @@ npm run dev
 
 ## Deploy
 
-https://hasket510.github.io/Email-editor/
+https://hasket510.github.io/email-editor/
