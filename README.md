@@ -16,19 +16,19 @@ git clone https://github.com/Hasket510/email-editor
 cd Email-editor
 ```
 
-4. install
+3. install
 
 ```
 npm install
 ```
 
-5. start server
+4. start server
 
 ```
 npx json-server db.json
 ```
 
-6. development
+5. development
 
 ```
 npm run dev
